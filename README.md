@@ -1,4 +1,4 @@
-# APIs �🟩
+# APIs 🟩
 Escolha a tecnologia ou ferramenta que deseja ver o exemplo, e clique no link.<br> 
 ←[Voltar para lista geral de repositórios](https://github.com/ricardaonao/Portifolio)
 
@@ -6,7 +6,7 @@ Escolha a tecnologia ou ferramenta que deseja ver o exemplo, e clique no link.<b
 ___________________________________________________________________________________________________
 ## Node.js 🛠
 * [Consumindo APi - Simples]()
-* [JavaScript - Eventos]()
+* [Criando API]()
 
 
 ## Frameworks / Bibliotecas 🧰
