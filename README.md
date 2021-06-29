@@ -11,8 +11,8 @@ ________________________________________________________________________________
 
 ## Consumindo APIs 🧰
 * [Axios - Primeiros passos](https://github.com/ricardaonao/API-Node-Axios)
-* [Axios + React - Ex: 01](https://github.com/ricardaonao/API-Node-Axios-React)
-* [Axios + React + Vercel - Ex: 01]()
+* [Axios + React + Vercel - Ex: 01](https://github.com/ricardaonao/API-Node-Axios-React)
+* [Axios + React - Ex: 01]()
 * [Express - Simples](https://github.com/ricardaonao/API-Node-Express-Basico)
 
 
