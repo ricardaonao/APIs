@@ -10,9 +10,10 @@ ________________________________________________________________________________
 
 
 ## Consumindo APIs 🧰
-* [Axios - Consumindo API - O método mais simples](https://github.com/ricardaonao/API-Node-Axios)
-* [Axios + React - Consumindo API - Primeiros passos ](https://github.com/ricardaonao/API-Node-Axios-React)
-* [Express -Servidor - Simples](https://github.com/ricardaonao/API-Node-Express-Basico)
+* [Axios - Primeiros passos](https://github.com/ricardaonao/API-Node-Axios)
+* [Axios + React - Ex: 01](https://github.com/ricardaonao/API-Node-Axios-React)
+* [Axios + React + Vercel - Ex: 01]()
+* [Express - Simples](https://github.com/ricardaonao/API-Node-Express-Basico)
 
 
 ___________________________________________________________________________________________________
