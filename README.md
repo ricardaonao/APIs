@@ -12,9 +12,10 @@ ________________________________________________________________________________
 ## Consumindo APIs 🧰
 * [Axios - Primeiros passos](https://github.com/ricardaonao/API-Node-Axios)
 * [Axios + React + Vercel - Ex: 01](https://github.com/ricardaonao/API-Node-Axios-React)
+* [Axios + React + Vercel - Ex: 02]()
 * [Axios + React - Ex: 01]()
 * [Express - Simples](https://github.com/ricardaonao/API-Node-Express-Basico)
 
 
 ___________________________________________________________________________________________________
-Ricardo Souza  - Web developer - Full-Stack
+Autoria: Ricardo Souza
