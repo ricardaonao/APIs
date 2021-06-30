@@ -12,7 +12,7 @@ ________________________________________________________________________________
 ## Consumindo APIs 🧰
 * [Axios - Primeiros passos](https://github.com/ricardaonao/API-Node-Axios)
 * [Axios + React + Vercel - Ex: 01](https://github.com/ricardaonao/API-Node-Axios-React)
-* [Axios + React + Vercel - Ex: 02]()
+* [Axios + React + Vercel - Ex: 02](https://github.com/ricardaonao/API-Node-Axios-React-Vercel-2)
 * [Axios + React - Ex: 01]()
 * [Express - Simples](https://github.com/ricardaonao/API-Node-Express-Basico)
 
