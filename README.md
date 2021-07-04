@@ -5,16 +5,14 @@ Escolha a tecnologia ou ferramenta que deseja ver o exemplo, e clique no link.<b
 
 ___________________________________________________________________________________________________
 ## Node.js - Server 🛠
-* [Criando server - Simples]()
-* [Criando server com Express]()
+* [Express - Primeiros passos ](https://github.com/ricardaonao/API-Node-Express-Basico)
+* [Criando server com Express]()<br>
 
 
-## Consumindo APIs 🧰
-* [Axios - Primeiros passos](https://github.com/ricardaonao/API-Node-Axios)
-* [Axios + React + Vercel - Ex: 01](https://github.com/ricardaonao/API-Node-Axios-React)
-* [Axios + React + Vercel - Ex: 02](https://github.com/ricardaonao/API-Node-Axios-React-Vercel-2)
-* [Axios + React - Ex: 01]()
-* [Express - Simples](https://github.com/ricardaonao/API-Node-Express-Basico)
+## Criando APIs 🔌
+* [Next.js + Vercel - Primeiros passos](https://github.com/ricardaonao/serv-node-next-vercel-1)
+
+
 
 
 ___________________________________________________________________________________________________
