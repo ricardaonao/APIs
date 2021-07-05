@@ -11,6 +11,8 @@ ________________________________________________________________________________
 
 ## Criando APIs 🔌
 * [Next.js + Vercel - Primeiros passos](https://github.com/ricardaonao/serv-node-next-vercel-1)
+* [Next.js + Vercel + MongoDB - CRUD pronto para uso](https://github.com/ricardaonao/serv-node-next-vercel-mongo-1)
+
 
 
 
